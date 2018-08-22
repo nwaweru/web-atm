@@ -1,4 +1,4 @@
-# web_atm
+# web-atm
 A demo ATM web application made with Laravel 5.4
 
 # Installation
